@@ -1,8 +1,5 @@
-# [Project Icon](imgs/logo.png) **PlayAgent**
-
----
-
-## **[1] About PlayAgent**
+![Project Icon](imgs/logo.png)
+# **PlayAgent**
 
 ### **Project Purpose ::**  
 **PlayAgent** is an innovative GameFi project where players engage in thrilling missions with sophisticated AI personas. Users can convince tech moguls, charm AI celebrities, and climb global leaderboards while earning $AGENT tokens.
@@ -24,7 +21,7 @@
 
 ---
 
-## **[2] Tokenomics**
+# **Tokenomics**
 
 Total Supply: 1,000,000,000 (1 Billion) AGENT Tokens
 
@@ -38,7 +35,7 @@ Distribution:
 
 ---
 
-## **[3] Roadmap**
+# **Roadmap**
 
 ### **Q1 2025:**
 - Launch of +20 AI Agents
@@ -79,7 +76,7 @@ Distribution:
 
 ---
 
-## **[4] Contact**
+# **Contact**
 - 📧 [contact@playagent.fun](mailto:contact@playagent.fun)
 - 🌐 [Website](http://playagent.fun)
 
